@@ -1,0 +1,9 @@
+# atividade-enem-geralTodas as instruções documentadas no README do repositório  
+
+Tenha certeza de que você já configurou seu ambiente, ao:  
+1 - criar ambiente virtual  
+2 - ativar ambiente virtual  
+3 - instalar biblioteca pdf2image  
+3.1 - se usando Windows, adicionar os binários do poppler ao PATH  
+4 - clonar seu repositóro (para copiar os códigos deste repositório)  
+5 - configurou seu user.email e user.name do git  
